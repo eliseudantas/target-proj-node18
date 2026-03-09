@@ -1,5 +1,7 @@
 # Node.js 18 API with Express 4
 
+THIS IS A POC TEST PROJECT
+
 A sample Node.js API project designed for testing upgrade scenarios, particularly migrating from Express 4 to Express 5.
 
 ## Requirements
